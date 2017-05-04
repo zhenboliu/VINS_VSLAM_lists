@@ -10,6 +10,8 @@ last update: 2016-12-31
 ### Loosely coupled 
 ### Tightly coupled
 
-## VINS Links
+## VINS Research Teams
++ [Multiple Autonomous Robotic Systems (MARS) Laboratory, University of Minnesota](http://mars.cs.umn.edu/index.php)
++ 
 
 ## Datasets
