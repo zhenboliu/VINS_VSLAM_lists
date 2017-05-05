@@ -17,8 +17,14 @@ Advantages:
 + More systematic uncertainty propagation with easier measurement uncertainty determination than that of pose uncertainty in LC;
 + More accurate results
 
-#### (1) MSCKF and variants
-#### (2) 
+
+#### Monocular
+(1) MSCKF and variants
+
+(2) 
+
+#### Stereo 
+(1) Trifocal tensor
 
 
 ## VINS Research Teams
