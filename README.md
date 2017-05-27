@@ -52,3 +52,6 @@ Advantages:
 
 
 ## Datasets
++ [ASL Datasets Repository](http://projects.asl.ethz.ch/datasets/doku.php)
++ [The EuRoC MAV Dataset](http://projects.asl.ethz.ch/datasets/doku.php?id=kmavvisualinertialdatasets)
++ [A summary of other dataset](http://projects.asl.ethz.ch/datasets/doku.php?id=related_links)
