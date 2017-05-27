@@ -29,6 +29,15 @@ Advantages:
 
 ## VINS Research Teams
 + [Multiple Autonomous Robotic Systems (MARS) Laboratory, University of Minnesota](http://mars.cs.umn.edu/index.php)
++ [Robotics, Perception and Real Time Group, University of Zaragoza](http://robots.unizar.es/)
 + 
+
+## Courses
++ [KF, EKF and SLAM course in MATLAB](http://www.iri.upc.edu/people/jsola/JoanSola/eng/course.html)
++ 
+
+## Open Source Software and Toolbox
++ [SLAM TOOLBOX FOR MATLAB](http://www.iri.upc.edu/people/jsola/JoanSola/eng/toolbox.html)
+
 
 ## Datasets
