@@ -30,23 +30,25 @@ Advantages:
 ## Research Teams
 + [Multiple Autonomous Robotic Systems (MARS) Laboratory, University of Minnesota](http://mars.cs.umn.edu/index.php)
 + [Robotics, Perception and Real Time Group, University of Zaragoza](http://robots.unizar.es/)
-+ 
++ [Computer Vision Group, Technical University of Munich](https://vision.in.tum.de/research/vslam)
++
 
 ## Courses
 + [KF, EKF and SLAM course in MATLAB](http://www.iri.upc.edu/people/jsola/JoanSola/eng/course.html)
 + 
 
-## Open Source Software and Toolbox
+## Open Source Software, Toolbox, Tools
 + [SLAM TOOLBOX FOR MATLAB](http://www.iri.upc.edu/people/jsola/JoanSola/eng/toolbox.html)
 + [RT-SLAM: Real-time EKF-SLAM in C++](https://www.openrobots.org/wiki/rtslam/)
-+ 
++ [Point Cloud Library](http://pointclouds.org/)
 
 ## Useful Website: Personal, Wiki, Organization
-+ [](https://openslam.org/)
-+ [](http://www.slamcn.org/index.php/%E9%A6%96%E9%A1%B5)
-+ [](http://www.joansola.eu)
-+ [](https://www.openrobots.org/wiki)
-
++ [OpenSLAM](https://openslam.org/)
++ [SLAMCN](http://www.slamcn.org/index.php/%E9%A6%96%E9%A1%B5)
++ [Joan Sola](http://www.joansola.eu)
++ [OpenRobots](https://www.openrobots.org/wiki)
++ [awesome-SLAM-list](https://github.com/OpenSLAM/awesome-SLAM-list)
++ 
 
 
 ## Datasets
