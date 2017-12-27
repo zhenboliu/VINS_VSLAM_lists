@@ -8,8 +8,15 @@ last update: 2016-12-31
 ## VINS Algorithms
 
 ### Loosely coupled (LC)
+Vision sensor and inertial measurement unit (IMU) are two seperate modules, providing the robot's pose or part of it. Fusion algorithm integrates these two outputs in a optimal way.
 Advantages:
-+
++ Decouple the vision part in a black-box, allowing the IMU part processes the fusion in real-time;
++ Few, if any, states will be augmented, which will lead to fast speed;
++ The decoupled system together with other aiding sensors can form a mudular multisensor system and be incoorparated easily, for example, in a decentrized filter framework. 
+
+#### Monocular
+
+#### Stereo
 
 ### Tightly coupled (TC)
 Advantages:
@@ -17,11 +24,10 @@ Advantages:
 + More systematic uncertainty propagation with easier measurement uncertainty determination than that of pose uncertainty in LC;
 + More accurate results
 
-
 #### Monocular
 (1) MSCKF and variants
-
-(2) 
+(2) SLAM filter-based
+(3) Non-linear Optimization
 
 #### Stereo 
 (1) Trifocal tensor
@@ -34,8 +40,8 @@ Advantages:
 +
 
 ## Courses
-+ [KF, EKF and SLAM course in MATLAB](http://www.iri.upc.edu/people/jsola/JoanSola/eng/course.html)
-+ 
++ [CSIC-UPC: KF, EKF and SLAM course in MATLAB](http://www.iri.upc.edu/people/jsola/JoanSola/eng/course.html)
++ [TUM: Machine Learning for Robotics and Computer Vision (IN3200)](https://vision.in.tum.de/teaching/ws2016/mlcv16)
 
 ## Open Source Software, Toolbox, Tools
 + [SLAM TOOLBOX FOR MATLAB](http://www.iri.upc.edu/people/jsola/JoanSola/eng/toolbox.html)
