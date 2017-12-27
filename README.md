@@ -25,9 +25,9 @@ Advantages:
 + More accurate results
 
 #### Monocular
-(1) MSCKF and variants
-(2) SLAM filter-based
-(3) Non-linear Optimization
++ (1) MSCKF and variants
++ (2) SLAM filter-based
++ (3) Non-linear Optimization
 
 #### Stereo 
 (1) Trifocal tensor
