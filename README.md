@@ -47,6 +47,8 @@ Advantages:
 + [SLAM TOOLBOX FOR MATLAB](http://www.iri.upc.edu/people/jsola/JoanSola/eng/toolbox.html)
 + [RT-SLAM: Real-time EKF-SLAM in C++](https://www.openrobots.org/wiki/rtslam/)
 + [Point Cloud Library](http://pointclouds.org/)
++ [InerVis Toolbox for Matlab](http://home.deec.uc.pt/~jlobo/InerVis_WebIndex/InerVis_Toolbox.html)
++ [Kalibr: Intrinsic, extrinsic and temporal camera and IMU calibration](https://github.com/ethz-asl/kalibr)
 
 ## Useful Website: Personal, Wiki, Organization
 + [OpenSLAM](https://openslam.org/)
